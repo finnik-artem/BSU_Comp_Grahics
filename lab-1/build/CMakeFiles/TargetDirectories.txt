@@ -1,0 +1,5 @@
+/Users/artem/Documents/BSU/CompGraphics/lab-1/build/CMakeFiles/ColorConverter.dir
+/Users/artem/Documents/BSU/CompGraphics/lab-1/build/CMakeFiles/edit_cache.dir
+/Users/artem/Documents/BSU/CompGraphics/lab-1/build/CMakeFiles/rebuild_cache.dir
+/Users/artem/Documents/BSU/CompGraphics/lab-1/build/CMakeFiles/ColorConverter_autogen_timestamp_deps.dir
+/Users/artem/Documents/BSU/CompGraphics/lab-1/build/CMakeFiles/ColorConverter_autogen.dir
